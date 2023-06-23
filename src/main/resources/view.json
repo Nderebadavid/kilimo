@@ -1,0 +1,127 @@
+{
+    "objects": [
+        {
+            "productOwner": "Owner 1",
+            "stores": ["Store 3", "Store 4"],
+            "products": [
+                {
+                    "productName": "Product 3",
+                    "pricePerUnit": "15",
+                    "totalQuantityTarget": "150"
+                },
+                {
+                    "productName": "Product 4",
+                    "pricePerUnit": "25",
+                    "totalQuantityTarget": "250"
+                },
+                {
+                    "productName": "Potatoes",
+                    "pricePerUnit": "12",
+                    "totalQuantityTarget": "100"
+                },
+                {
+                    "productName": "Tomatoes",
+                    "pricePerUnit": "5",
+                    "totalQuantityTarget": "200"
+                },
+                {
+                    "productName": "Yams",
+                    "pricePerUnit": "8",
+                    "totalQuantityTarget": "120"
+                },
+                {
+                    "productName": "Rice",
+                    "pricePerUnit": "20",
+                    "totalQuantityTarget": "300"
+                },
+                {
+                    "productName": "Maize",
+                    "pricePerUnit": "10",
+                    "totalQuantityTarget": "200"
+                }
+            ]
+        },
+         {
+            "productOwner": "Owner 2",
+            "stores": ["Store 3", "Store 4"],
+            "products": [
+                {
+                    "productName": "Product 3",
+                    "pricePerUnit": "17",
+                    "totalQuantityTarget": "140"
+                },
+                {
+                    "productName": "Product 4",
+                    "pricePerUnit": "28",
+                    "totalQuantityTarget": "270"
+                },
+                {
+                    "productName": "Potatoes",
+                    "pricePerUnit": "19",
+                    "totalQuantityTarget": "140"
+                },
+                {
+                    "productName": "Tomatoes",
+                    "pricePerUnit": "15",
+                    "totalQuantityTarget": "200"
+                },
+                {
+                    "productName": "Yams",
+                    "pricePerUnit": "38",
+                    "totalQuantityTarget": "120"
+                },
+                {
+                    "productName": "Rice",
+                    "pricePerUnit": "100",
+                    "totalQuantityTarget": "3000"
+                },
+                {
+                    "productName": "Maize",
+                    "pricePerUnit": "100",
+                    "totalQuantityTarget": "2000"
+                }
+            ]
+        },
+         {
+            "productOwner": "Owner 3",
+            "stores": ["Store 3", "Store 4"],
+            "products": [
+                {
+                    "productName": "Product 3",
+                    "pricePerUnit": "150",
+                    "totalQuantityTarget": "150"
+                },
+                {
+                    "productName": "Product 4",
+                    "pricePerUnit": "250",
+                    "totalQuantityTarget": "250"
+                },
+                {
+                    "productName": "Potatoes",
+                    "pricePerUnit": "120",
+                    "totalQuantityTarget": "100"
+                },
+                {
+                    "productName": "Tomatoes",
+                    "pricePerUnit": "50",
+                    "totalQuantityTarget": "2000"
+                },
+                {
+                    "productName": "Yams",
+                    "pricePerUnit": "80",
+                    "totalQuantityTarget": "120"
+                },
+                {
+                    "productName": "Rice",
+                    "pricePerUnit": "200",
+                    "totalQuantityTarget": "3000"
+                },
+                {
+                    "productName": "Maize",
+                    "pricePerUnit": "120",
+                    "totalQuantityTarget": "2000"
+                }
+            ]
+        }
+    ]
+}

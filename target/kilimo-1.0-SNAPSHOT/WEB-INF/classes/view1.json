@@ -1,0 +1,75 @@
+{
+    "productOwners": [
+        {
+            "name": "Owner 1",
+            "stores": [
+                {
+                    "name": "Store 1",
+                    "products": [
+                        {
+                            "productName": "Product 1",
+                            "pricePerUnit": "10",
+                            "totalQuantityTarget": "100"
+                        },
+                        {
+                            "productName": "Product 2",
+                            "pricePerUnit": "20",
+                            "totalQuantityTarget": "200"
+                        }
+                    ]
+                },
+                {
+                    "name": "Store 2",
+                    "products": [
+                        {
+                            "productName": "Product 3",
+                            "pricePerUnit": "15",
+                            "totalQuantityTarget": "150"
+                        },
+                        {
+                            "productName": "Product 4",
+                            "pricePerUnit": "25",
+                            "totalQuantityTarget": "250"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Owner 2",
+            "stores": [
+                {
+                    "name": "Store 3",
+                    "products": [
+                        {
+                            "productName": "Product 5",
+                            "pricePerUnit": "30",
+                            "totalQuantityTarget": "300"
+                        },
+                        {
+                            "productName": "Product 6",
+                            "pricePerUnit": "40",
+                            "totalQuantityTarget": "400"
+                        }
+                    ]
+                },
+                {
+                    "name": "Store 4",
+                    "products": [
+                        {
+                            "productName": "Product 7",
+                            "pricePerUnit": "35",
+                            "totalQuantityTarget": "350"
+                        },
+                        {
+                            "productName": "Product 8",
+                            "pricePerUnit": "45",
+                            "totalQuantityTarget": "450"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+

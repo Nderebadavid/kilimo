@@ -1,0 +1,37 @@
+{
+    "menus": 
+            {
+                "homeMenu": "Welocome to kilimosoko self service\n1.Register\n2.View Products Listed & Stores Open\n3.Summary\n\n00: Exit",
+                "firstnameMenu": "Register now\nEnter your Firstname\n\n00: Exit",
+                "lastnameMenu": "Enter your Lastname\n\n00: Exit",
+                "locationMenu": "Enter your area Loacation\n\n00: Exit",
+                "idNumberMenu": "Enter your ID Number\n\n00: Exit",
+                "endSessionMenu": "Thank you for choosing Kilimosoko",
+                "productAndStoreListingMenu": "Select to view Products & Stores Listed\n1. View\n2.Go Back\n\n00: Exit",
+                "productDeliveryMenu": "Select to deliver Products\n1. Deliver\n2.Go Back\n\n00: Exit",
+                "summaryMenu": "Select to view your Summary/History\n1.Products delivered\n2.Financial Operations\n\n00: Exit",
+                "ProductsdeliveredMenu": "#MESSAGE \n\n0: Back 00: Home",
+                "FinancialOperationsMenu": "#MESSAGE \n\n0: Back 00: Home",
+                "productsMenu": "Select your product owner #MESSAGE\n\n00: Exit",
+                "productsListedMenu": "Select Your product from  products Listed\n\n00: Exit",
+                "storesMenu": "Select your Store\n\n00: Exit",
+                "productOwnersViewMenu": "#MESSAGE \n\n0: Back 00: Home",
+                "deliverProductMenu": "#MESSAGE \n\n0: Back\n00: Home",
+                "productDetailsConfirmationMenu": "#MESSAGE \n\n0.Back\n00: Home",
+                "endOperationMenu": "#MESSAGE",
+                "confirmDeliveryMenu": "#MESSAGE\n\n1.Confirm\n00: Exit",
+                "invalidResponseMenu": "#MESSAGE\n\n0: Home\n00: Exit", 
+                "successMenu": "#MESSAGE \n\n0: Back 00: Home"
+            },
+
+    "redis": 
+            {
+
+                "host": "localhost",
+                "password": "rootcoder",
+                "username": "",
+                "timeout": 5000,
+                "port": 6379,
+                "maxConnections": 15000
+            }
+}
